@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am dedicated to Android application development and Flutter. I have a strong passion for learning new things and honing my skills. I am seeking an opportunity to be part of an innovative and progressive environment where I can continue to learn and grow as an individual and as a professional.
+Passionate Mobile Developer experienced in Flutter and Android Native (Kotlin) app development. Contributed to the development of FMS - Pandawa Agri Indonesia app, enhancing productivity in workplace operations. A quick learner adept at solving problems effectively. Eager to join an innovative team and continually enhance skills in crafting exceptional mobile applications.
 
 
 ## 🌐 Socials:
